@@ -1,0 +1,1 @@
+{"name":"crypto-system-assistant","version":"1.0.0","description":"A crypto system assistant website with Express server.","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"express":"^4.17.1"}}
